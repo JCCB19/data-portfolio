@@ -1,0 +1,10 @@
+---
+title: "Portafolio de datos"
+---
+
+Proyectos de analítica de datos sobre futbol, NFL, cine y moda deportiva.
+Cada proyecto responde una pregunta de negocio, con datos públicos y código reproducible.
+
+*(Sitio en construcción. Los proyectos se irán publicando aquí.)*
+
+[Switch to English](../en/index.qmd)

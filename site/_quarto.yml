@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Data Portfolio · Julio César Castañeda"
+  navbar:
+    left:
+      - text: "Inicio / Home"
+        href: index.qmd
+    right:
+      - text: "ES"
+        href: es/index.qmd
+      - text: "EN"
+        href: en/index.qmd
+
+format:
+  html:
+    theme: cosmo

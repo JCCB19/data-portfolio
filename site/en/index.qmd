@@ -1,0 +1,10 @@
+---
+title: "Data Portfolio"
+---
+
+Data analytics projects on football, the NFL, film and sportswear.
+Each project answers a business question using public data and reproducible code.
+
+*(Site under construction. Projects will be published here as they are completed.)*
+
+[Cambiar a español](../es/index.qmd)

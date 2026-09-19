@@ -1,0 +1,16 @@
+# El warehouse se reconstruye desde data/raw en cada corrida
+warehouse/*.duckdb
+warehouse/*.duckdb.wal
+
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# Salida de Quarto
+site/_site/
+site/.quarto/
+
+# Credenciales: nunca al repositorio
+.env
