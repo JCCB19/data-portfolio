@@ -14,3 +14,6 @@ site/.quarto/
 
 # Credenciales: nunca al repositorio
 .env
+
+# Ventana móvil de próximos partidos: se regenera en cada corrida, no vale la pena versionarla
+data/raw/fixtures_next.json

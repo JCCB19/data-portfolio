@@ -1,0 +1,12 @@
+division,utc_date,matchday,home_team_fixture,away_team_fixture,home_team,away_team,goles_esperados_local,goles_esperados_visita,p_gana_local,p_empate,p_gana_visita,marcador_mas_probable,prob_marcador_mas_probable
+E0,2026-10-10T11:30:00Z,6,Arsenal FC,Leeds United FC,Arsenal,Leeds,1.85,0.72,0.643,0.218,0.139,1-0,0.141
+E0,2026-10-10T14:00:00Z,6,Sunderland AFC,Brighton & Hove Albion FC,Sunderland,Brighton,1.16,1.31,0.327,0.271,0.402,1-1,0.129
+E0,2026-10-10T14:00:00Z,6,Chelsea FC,AFC Bournemouth,Chelsea,Bournemouth,1.67,1.31,0.458,0.24,0.302,1-1,0.111
+E0,2026-10-10T14:00:00Z,6,Ipswich Town FC,Fulham FC,Ipswich,Fulham,1.07,1.89,0.211,0.223,0.566,1-1,0.105
+E0,2026-10-10T14:00:00Z,6,Aston Villa FC,Brentford FC,Aston Villa,Brentford,1.55,1.4,0.411,0.244,0.345,1-1,0.113
+E0,2026-10-10T16:30:00Z,6,Manchester United FC,Tottenham Hotspur FC,Man United,Tottenham,1.79,1.29,0.491,0.232,0.277,1-1,0.106
+E0,2026-10-11T13:00:00Z,6,Hull City AFC,Everton FC,Hull,Everton,1.04,0.48,0.489,0.342,0.169,1-0,0.226
+E0,2026-10-11T13:00:00Z,6,Crystal Palace FC,Nottingham Forest FC,Crystal Palace,Nott'm Forest,1.15,1.26,0.336,0.275,0.389,1-1,0.13
+E0,2026-10-11T15:30:00Z,6,Liverpool FC,Manchester City FC,Liverpool,Man City,1.5,1.58,0.363,0.239,0.397,1-1,0.109
+E0,2026-10-12T19:00:00Z,6,Coventry City FC,Newcastle United FC,Coventry,Newcastle,0.07,2.26,0.007,0.113,0.88,0-2,0.25
+SP1,2026-10-21T18:00:00Z,6,Levante UD,Athletic Club,Levante,Ath Bilbao,1.25,1.32,0.349,0.266,0.385,1-1,0.126

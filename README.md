@@ -7,8 +7,8 @@
 
 | Fase / Phase | Contenido / Scope | Estado / Status |
 |---|---|---|
-| 0 | Base: warehouse DuckDB, ingesta, actualización semanal, sitio ES/EN | Esqueleto listo, pendiente de primera corrida real |
-| 1 | Futbol: modelo de predicción + tablero Liverpool / Barcelona | Pendiente |
+| 0 | Base: warehouse DuckDB, ingesta, actualización semanal, sitio ES/EN | Completa |
+| 1 | Futbol: modelo de predicción + tablero Liverpool / Barcelona | Modelo y backtest listos, falta registro semanal de predicciones y el tablero |
 | 2 | Fantasy NFL (nflverse + Sleeper) | Pendiente |
 | 3 | Moda deportiva y cine | Pendiente |
 
@@ -19,9 +19,10 @@ pip install -r requirements.txt
 python scripts/check_sources.py                 # ¿se alcanzan las fuentes de datos?
 python -m pipelines.ingest_football --seasons 2425 2526 2627   # descarga (primera vez: historial)
 python -m pipelines.build_warehouse             # construye el warehouse y exporta los marts
+python -m pipelines.run_backtest                # evalúa el modelo de predicción vs el mercado
 ```
 
-Ambos pasos tardan segundos. El warehouse (`warehouse/portafolio.duckdb`) se reconstruye completo en cada corrida; los resultados listos para usar quedan en `data/marts/` (Parquet y CSV).
+Todos los pasos tardan segundos. El warehouse (`warehouse/portafolio.duckdb`) se reconstruye completo en cada corrida; los resultados listos para usar quedan en `data/marts/` (Parquet y CSV).
 
 ## Estructura / Structure
 
