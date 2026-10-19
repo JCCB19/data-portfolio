@@ -3044,101 +3044,121 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,E0,2026-09-06,Arsenal,Chelsea,1,2,1,3,3,9,9,2.0,0.3333333333333333
 2627,E0,2026-09-12,Arsenal,Sunderland,0,2,0,3,4,12,12,2.0,0.25
 2627,E0,2026-09-19,Arsenal,Brighton,0,0,3,0,5,12,12,1.6,0.8
+2627,E0,2026-10-10,Arsenal,Leeds,1,2,1,3,6,15,12,1.4,1.0
 2627,E0,2026-08-23,Aston Villa,Brighton,0,0,4,0,1,0,0,0.0,4.0
 2627,E0,2026-08-31,Aston Villa,Arsenal,1,0,1,0,2,0,0,0.0,2.5
 2627,E0,2026-09-05,Aston Villa,Hull,0,0,0,1,3,1,1,0.0,1.6666666666666667
 2627,E0,2026-09-12,Aston Villa,Nott'm Forest,1,1,2,0,4,1,1,0.25,1.75
 2627,E0,2026-09-19,Aston Villa,Tottenham,0,3,2,3,5,4,4,0.8,1.8
+2627,E0,2026-10-10,Aston Villa,Brentford,1,2,2,1,6,5,5,1.2,1.4
 2627,E0,2026-08-23,Bournemouth,Man City,0,1,2,0,1,0,0,1.0,2.0
 2627,E0,2026-08-29,Bournemouth,Everton,1,1,1,1,2,1,1,1.0,1.5
 2627,E0,2026-09-05,Bournemouth,Newcastle,0,2,2,1,3,2,2,1.3333333333333333,1.6666666666666667
 2627,E0,2026-09-12,Bournemouth,Brentford,1,2,2,1,4,3,3,1.5,1.75
 2627,E0,2026-09-20,Bournemouth,Liverpool,1,0,1,0,5,3,3,1.2,1.6
+2627,E0,2026-10-10,Bournemouth,Chelsea,0,1,5,0,6,3,3,1.2,2.2
 2627,E0,2026-08-22,Brentford,Tottenham,1,3,0,3,1,3,3,3.0,0.0
 2627,E0,2026-08-30,Brentford,Leeds,0,1,1,1,2,4,4,2.0,0.5
 2627,E0,2026-09-05,Brentford,Sunderland,1,1,1,1,3,5,5,1.6666666666666667,0.6666666666666666
 2627,E0,2026-09-12,Brentford,Bournemouth,0,2,2,1,4,6,6,1.75,1.0
 2627,E0,2026-09-18,Brentford,Chelsea,1,3,0,3,5,9,9,2.0,0.8
+2627,E0,2026-10-10,Brentford,Aston Villa,0,2,2,1,6,10,7,1.8,1.2
 2627,E0,2026-08-23,Brighton,Aston Villa,1,4,0,3,1,3,3,4.0,0.0
 2627,E0,2026-08-30,Brighton,Chelsea,0,3,4,0,2,3,3,3.5,2.0
 2627,E0,2026-09-05,Brighton,Leeds,1,1,1,1,3,4,4,2.6666666666666665,1.6666666666666667
 2627,E0,2026-09-13,Brighton,Coventry,0,5,0,3,4,7,7,3.25,1.25
 2627,E0,2026-09-19,Brighton,Arsenal,1,3,0,3,5,10,10,3.2,1.0
+2627,E0,2026-10-10,Brighton,Sunderland,0,2,0,3,6,13,10,2.8,1.0
 2627,E0,2026-08-24,Chelsea,Fulham,0,3,2,3,1,3,3,3.0,2.0
 2627,E0,2026-08-30,Chelsea,Brighton,1,4,3,3,2,6,6,3.5,2.5
 2627,E0,2026-09-06,Chelsea,Arsenal,0,1,2,0,3,6,6,2.6666666666666665,2.3333333333333335
 2627,E0,2026-09-12,Chelsea,Hull,1,2,2,1,4,7,7,2.5,2.25
 2627,E0,2026-09-18,Chelsea,Brentford,0,0,3,0,5,7,7,2.0,2.4
+2627,E0,2026-10-10,Chelsea,Bournemouth,1,5,1,3,6,10,7,2.4,2.2
 2627,E0,2026-08-21,Coventry,Arsenal,0,0,3,0,1,0,0,0.0,3.0
 2627,E0,2026-08-29,Coventry,Hull,1,0,1,0,2,0,0,0.0,2.0
 2627,E0,2026-09-05,Coventry,Man City,0,0,1,0,3,0,0,0.0,1.6666666666666667
 2627,E0,2026-09-13,Coventry,Brighton,1,0,5,0,4,0,0,0.0,2.5
 2627,E0,2026-09-19,Coventry,Nott'm Forest,0,1,0,3,5,3,3,0.2,2.0
+2627,E0,2026-10-12,Coventry,Newcastle,1,4,1,3,6,6,6,1.0,1.6
 2627,E0,2026-08-22,Crystal Palace,Everton,0,0,2,0,1,0,0,0.0,2.0
 2627,E0,2026-08-28,Crystal Palace,Man City,1,1,4,0,2,0,0,0.5,3.0
 2627,E0,2026-09-05,Crystal Palace,Fulham,0,3,2,3,3,3,3,1.3333333333333333,2.6666666666666665
 2627,E0,2026-09-12,Crystal Palace,Ipswich,1,2,3,0,4,3,3,1.5,2.75
 2627,E0,2026-09-20,Crystal Palace,Leeds,0,0,0,1,5,4,4,1.2,2.2
+2627,E0,2026-10-11,Crystal Palace,Nott'm Forest,1,3,1,3,6,7,7,1.8,2.0
 2627,E0,2026-08-22,Everton,Crystal Palace,1,2,0,3,1,3,3,2.0,0.0
 2627,E0,2026-08-29,Everton,Bournemouth,0,1,1,1,2,4,4,1.5,0.5
 2627,E0,2026-09-06,Everton,Man United,1,2,2,1,3,5,5,1.6666666666666667,1.0
 2627,E0,2026-09-12,Everton,Tottenham,0,0,0,1,4,6,6,1.25,0.75
 2627,E0,2026-09-19,Everton,Ipswich,1,1,0,3,5,9,9,1.2,0.6
+2627,E0,2026-10-11,Everton,Hull,0,2,2,1,6,10,7,1.2,1.0
 2627,E0,2026-08-24,Fulham,Chelsea,1,2,3,0,1,0,0,2.0,3.0
 2627,E0,2026-08-30,Fulham,Sunderland,0,0,1,0,2,0,0,1.0,2.0
 2627,E0,2026-09-05,Fulham,Crystal Palace,1,2,3,0,3,0,0,1.3333333333333333,2.3333333333333335
 2627,E0,2026-09-12,Fulham,Liverpool,0,0,0,1,4,1,1,1.0,1.75
 2627,E0,2026-09-20,Fulham,Man United,1,1,1,1,5,2,2,1.0,1.6
+2627,E0,2026-10-10,Fulham,Ipswich,0,1,2,0,6,2,2,0.8,1.4
 2627,E0,2026-08-22,Hull,Man United,1,2,0,3,1,3,3,2.0,0.0
 2627,E0,2026-08-29,Hull,Coventry,0,1,0,3,2,6,6,1.5,0.0
 2627,E0,2026-09-05,Hull,Aston Villa,1,0,0,1,3,7,7,1.0,0.0
 2627,E0,2026-09-12,Hull,Chelsea,0,2,2,1,4,8,8,1.25,0.5
 2627,E0,2026-09-19,Hull,Newcastle,0,1,2,0,5,8,8,1.2,0.8
+2627,E0,2026-10-11,Hull,Everton,1,2,2,1,6,9,6,1.2,1.2
 2627,E0,2026-08-22,Ipswich,Sunderland,1,2,1,3,1,3,3,2.0,1.0
 2627,E0,2026-08-30,Ipswich,Man United,0,2,5,0,2,3,3,2.0,3.0
 2627,E0,2026-09-04,Ipswich,Liverpool,1,0,2,0,3,3,3,1.3333333333333333,2.6666666666666665
 2627,E0,2026-09-12,Ipswich,Crystal Palace,0,3,2,3,4,6,6,1.75,2.5
 2627,E0,2026-09-19,Ipswich,Everton,0,0,1,0,5,6,6,1.4,2.2
+2627,E0,2026-10-10,Ipswich,Fulham,1,2,1,3,6,9,6,1.4,2.2
 2627,E0,2026-08-22,Leeds,Nott'm Forest,0,1,0,3,1,3,3,1.0,0.0
 2627,E0,2026-08-30,Leeds,Brentford,1,1,1,1,2,4,4,1.0,0.5
 2627,E0,2026-09-05,Leeds,Brighton,0,1,1,1,3,5,5,1.0,0.6666666666666666
 2627,E0,2026-09-14,Leeds,Newcastle,1,4,1,3,4,8,8,1.75,0.75
 2627,E0,2026-09-20,Leeds,Crystal Palace,1,0,0,1,5,9,9,1.4,0.6
+2627,E0,2026-10-10,Leeds,Arsenal,0,1,2,0,6,9,6,1.4,1.0
 2627,E0,2026-08-23,Liverpool,Newcastle,0,2,2,1,1,1,1,2.0,2.0
 2627,E0,2026-08-29,Liverpool,Nott'm Forest,1,2,2,1,2,2,2,2.0,2.0
 2627,E0,2026-09-04,Liverpool,Ipswich,0,2,0,3,3,5,5,2.0,1.3333333333333333
 2627,E0,2026-09-12,Liverpool,Fulham,1,0,0,1,4,6,6,1.5,1.0
 2627,E0,2026-09-20,Liverpool,Bournemouth,0,1,0,3,5,9,9,1.4,0.8
+2627,E0,2026-10-11,Liverpool,Man City,1,0,3,0,6,9,8,1.0,1.0
 2627,E0,2026-08-23,Man City,Bournemouth,1,2,1,3,1,3,3,2.0,1.0
 2627,E0,2026-08-28,Man City,Crystal Palace,0,4,1,3,2,6,6,3.0,1.0
 2627,E0,2026-09-05,Man City,Coventry,1,1,0,3,3,9,9,2.3333333333333335,0.6666666666666666
 2627,E0,2026-09-13,Man City,Man United,0,1,0,3,4,12,12,2.0,0.5
 2627,E0,2026-09-20,Man City,Sunderland,1,5,3,3,5,15,15,2.6,1.0
+2627,E0,2026-10-11,Man City,Liverpool,0,3,0,3,6,18,15,2.8,0.8
 2627,E0,2026-08-22,Man United,Hull,0,0,2,0,1,0,0,0.0,2.0
 2627,E0,2026-08-30,Man United,Ipswich,1,5,2,3,2,3,3,2.5,2.0
 2627,E0,2026-09-06,Man United,Everton,0,2,2,1,3,4,4,2.3333333333333335,2.0
 2627,E0,2026-09-13,Man United,Man City,1,0,1,0,4,4,4,1.75,1.75
 2627,E0,2026-09-20,Man United,Fulham,0,1,1,1,5,5,5,1.6,1.6
+2627,E0,2026-10-10,Man United,Tottenham,1,1,1,1,6,6,6,1.8,1.4
 2627,E0,2026-08-23,Newcastle,Liverpool,1,2,2,1,1,1,1,2.0,2.0
 2627,E0,2026-08-29,Newcastle,Tottenham,0,2,0,3,2,4,4,2.0,1.0
 2627,E0,2026-09-05,Newcastle,Bournemouth,1,2,2,1,3,5,5,2.0,1.3333333333333333
 2627,E0,2026-09-14,Newcastle,Leeds,0,1,4,0,4,5,5,1.75,2.0
 2627,E0,2026-09-19,Newcastle,Hull,1,2,1,3,5,8,8,1.8,1.8
+2627,E0,2026-10-12,Newcastle,Coventry,0,1,4,0,6,8,7,1.6,2.2
 2627,E0,2026-08-22,Nott'm Forest,Leeds,1,0,1,0,1,0,0,0.0,1.0
 2627,E0,2026-08-29,Nott'm Forest,Liverpool,0,2,2,1,2,1,1,1.0,1.5
 2627,E0,2026-09-05,Nott'm Forest,Tottenham,1,0,0,1,3,2,2,0.6666666666666666,1.0
 2627,E0,2026-09-12,Nott'm Forest,Aston Villa,0,2,1,3,4,5,5,1.0,1.0
 2627,E0,2026-09-19,Nott'm Forest,Coventry,1,0,1,0,5,5,5,0.8,1.0
+2627,E0,2026-10-11,Nott'm Forest,Crystal Palace,0,1,3,0,6,5,5,1.0,1.4
 2627,E0,2026-08-22,Sunderland,Ipswich,0,1,2,0,1,0,0,1.0,2.0
 2627,E0,2026-08-30,Sunderland,Fulham,1,1,0,3,2,3,3,1.0,1.0
 2627,E0,2026-09-05,Sunderland,Brentford,0,1,1,1,3,4,4,1.0,1.0
 2627,E0,2026-09-12,Sunderland,Arsenal,1,0,2,0,4,4,4,0.75,1.25
 2627,E0,2026-09-20,Sunderland,Man City,0,3,5,0,5,4,4,1.2,2.0
+2627,E0,2026-10-10,Sunderland,Brighton,1,0,2,0,6,4,4,1.0,2.0
 2627,E0,2026-08-22,Tottenham,Brentford,0,0,3,0,1,0,0,0.0,3.0
 2627,E0,2026-08-29,Tottenham,Newcastle,1,0,2,0,2,0,0,0.0,2.5
 2627,E0,2026-09-05,Tottenham,Nott'm Forest,0,0,0,1,3,1,1,0.0,1.6666666666666667
 2627,E0,2026-09-12,Tottenham,Everton,1,0,0,1,4,2,2,0.0,1.25
 2627,E0,2026-09-19,Tottenham,Aston Villa,1,2,3,0,5,2,2,0.4,1.6
+2627,E0,2026-10-10,Tottenham,Man United,0,1,1,1,6,3,3,0.6,1.2
 2627,SP1,2026-08-15,Alaves,Getafe,1,3,0,3,1,3,3,3.0,0.0
 2627,SP1,2026-08-20,Alaves,Vallecano,0,1,1,1,2,4,4,2.0,0.5
 2627,SP1,2026-08-28,Alaves,Villarreal,1,1,0,3,3,7,7,1.6666666666666667,0.3333333333333333
@@ -3146,6 +3166,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-12,Alaves,Santander,0,1,2,0,5,10,10,2.2,1.0
 2627,SP1,2026-09-15,Alaves,Valencia,1,0,1,0,6,10,7,1.6,1.2
 2627,SP1,2026-09-19,Alaves,Ath Bilbao,0,0,0,1,7,11,7,1.4,1.0
+2627,SP1,2026-10-10,Alaves,Ath Madrid,1,1,2,0,8,11,4,1.4,1.4
 2627,SP1,2026-08-22,Ath Bilbao,Sevilla,1,1,3,0,1,0,0,1.0,3.0
 2627,SP1,2026-08-27,Ath Bilbao,Barcelona,0,0,2,0,2,0,0,0.5,2.5
 2627,SP1,2026-08-30,Ath Bilbao,Celta,0,2,0,3,3,3,3,1.0,1.6666666666666667
@@ -3159,6 +3180,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-13,Ath Madrid,Sociedad,0,3,0,3,5,10,10,2.0,1.2
 2627,SP1,2026-09-16,Ath Madrid,Osasuna,1,4,0,3,6,13,10,2.4,1.2
 2627,SP1,2026-09-20,Ath Madrid,Real Madrid,1,2,1,3,7,16,12,2.4,1.0
+2627,SP1,2026-10-10,Ath Madrid,Alaves,0,2,1,3,8,19,12,2.2,1.0
 2627,SP1,2026-08-23,Barcelona,Elche,0,5,0,3,1,3,3,5.0,0.0
 2627,SP1,2026-08-27,Barcelona,Ath Bilbao,1,2,0,3,2,6,6,3.5,0.0
 2627,SP1,2026-08-31,Barcelona,Vallecano,1,5,2,3,3,9,9,4.0,0.6666666666666666
@@ -3166,6 +3188,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-13,Barcelona,Levante,0,4,2,3,5,15,15,4.2,0.8
 2627,SP1,2026-09-16,Barcelona,Santander,1,7,2,3,6,18,15,4.6,1.2
 2627,SP1,2026-09-19,Barcelona,Sevilla,0,3,1,3,7,21,15,4.8,1.4
+2627,SP1,2026-10-10,Barcelona,Getafe,1,3,0,3,8,24,15,4.4,1.0
 2627,SP1,2026-08-21,Betis,Sociedad,1,1,0,3,1,3,3,1.0,0.0
 2627,SP1,2026-08-25,Betis,Valencia,0,1,0,3,2,6,6,1.0,0.0
 2627,SP1,2026-08-29,Betis,Levante,0,2,5,0,3,6,6,1.3333333333333333,1.6666666666666667
@@ -3173,6 +3196,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-14,Betis,Villarreal,0,2,1,3,5,12,12,1.4,1.2
 2627,SP1,2026-09-17,Betis,Getafe,1,1,0,3,6,15,12,1.4,1.2
 2627,SP1,2026-09-20,Betis,La Coruna,0,1,1,1,7,16,10,1.4,1.4
+2627,SP1,2026-10-11,Betis,Osasuna,1,5,2,3,8,19,13,2.0,0.8
 2627,SP1,2026-08-22,Celta,Valencia,0,0,0,1,1,1,1,0.0,0.0
 2627,SP1,2026-08-27,Celta,Osasuna,1,1,2,0,2,1,1,0.5,1.0
 2627,SP1,2026-08-30,Celta,Ath Bilbao,1,0,2,0,3,1,1,0.3333333333333333,1.3333333333333333
@@ -3180,6 +3204,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-07,Celta,Getafe,0,1,1,1,5,3,3,0.4,1.0
 2627,SP1,2026-09-13,Celta,Malaga,1,1,1,1,6,4,3,0.6,1.2
 2627,SP1,2026-09-19,Celta,Santander,1,5,0,3,7,7,6,1.4,0.8
+2627,SP1,2026-10-11,Celta,Elche,0,0,0,1,8,8,7,1.4,0.4
 2627,SP1,2026-08-17,Elche,La Coruna,0,1,1,1,1,1,1,1.0,1.0
 2627,SP1,2026-08-23,Elche,Barcelona,1,0,5,0,2,1,1,0.5,3.0
 2627,SP1,2026-08-28,Elche,Santander,0,2,3,0,3,1,1,1.0,3.0
@@ -3187,6 +3212,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-12,Elche,Ath Bilbao,0,1,1,1,5,2,2,1.2,2.6
 2627,SP1,2026-09-15,Elche,Real Madrid,1,2,3,0,6,2,1,1.4,3.0
 2627,SP1,2026-09-18,Elche,Espanol,0,3,1,3,7,5,4,2.0,2.2
+2627,SP1,2026-10-11,Elche,Celta,1,0,0,1,8,6,5,1.6,1.6
 2627,SP1,2026-08-16,Espanol,Levante,1,3,0,3,1,3,3,3.0,0.0
 2627,SP1,2026-08-22,Espanol,Real Madrid,1,1,2,0,2,3,3,2.0,1.0
 2627,SP1,2026-08-29,Espanol,Sociedad,0,1,2,0,3,3,3,1.6666666666666667,1.3333333333333333
@@ -3194,6 +3220,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-12,Espanol,Osasuna,0,2,0,3,5,7,7,1.6,1.0
 2627,SP1,2026-09-15,Espanol,Vallecano,0,1,2,0,6,7,4,1.2,1.4
 2627,SP1,2026-09-18,Espanol,Elche,1,1,3,0,7,7,4,1.2,1.6
+2627,SP1,2026-10-09,Espanol,Malaga,0,1,1,1,8,8,5,1.2,1.4
 2627,SP1,2026-08-15,Getafe,Alaves,0,0,3,0,1,0,0,0.0,3.0
 2627,SP1,2026-08-23,Getafe,Santander,1,1,0,3,2,3,3,0.5,1.5
 2627,SP1,2026-08-31,Getafe,Osasuna,0,0,1,0,3,3,3,0.3333333333333333,1.3333333333333333
@@ -3201,6 +3228,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-13,Getafe,La Coruna,1,1,1,1,5,5,5,0.6,1.2
 2627,SP1,2026-09-17,Getafe,Betis,0,0,1,0,6,5,5,0.6,0.8
 2627,SP1,2026-09-20,Getafe,Malaga,1,1,0,3,7,8,5,0.6,0.8
+2627,SP1,2026-10-10,Getafe,Barcelona,0,0,3,0,8,8,5,0.6,1.2
 2627,SP1,2026-08-17,La Coruna,Elche,1,1,1,1,1,1,1,1.0,1.0
 2627,SP1,2026-08-24,La Coruna,Malaga,0,1,1,1,2,2,2,1.0,1.0
 2627,SP1,2026-08-30,La Coruna,Valencia,1,3,1,3,3,5,5,1.6666666666666667,1.0
@@ -3208,12 +3236,14 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-13,La Coruna,Getafe,0,1,1,1,5,9,9,1.8,1.2
 2627,SP1,2026-09-16,La Coruna,Sevilla,1,0,1,0,6,9,8,1.6,1.2
 2627,SP1,2026-09-20,La Coruna,Betis,1,1,1,1,7,10,8,1.6,1.2
+2627,SP1,2026-10-11,La Coruna,Sociedad,0,2,3,0,8,10,5,1.4,1.6
 2627,SP1,2026-08-16,Levante,Espanol,0,0,3,0,1,0,0,0.0,3.0
 2627,SP1,2026-08-24,Levante,Osasuna,0,0,0,1,2,1,1,0.0,1.5
 2627,SP1,2026-08-29,Levante,Betis,1,5,2,3,3,4,4,1.6666666666666667,1.6666666666666667
 2627,SP1,2026-09-06,Levante,Malaga,0,0,0,1,4,5,5,1.25,1.25
 2627,SP1,2026-09-13,Levante,Barcelona,1,2,4,0,5,5,5,1.4,1.8
 2627,SP1,2026-09-20,Levante,Villarreal,0,1,3,0,6,5,5,1.6,1.8
+2627,SP1,2026-10-12,Levante,Sevilla,1,3,3,1,7,6,5,2.2,2.4
 2627,SP1,2026-08-19,Malaga,Ath Madrid,0,0,2,0,1,0,0,0.0,2.0
 2627,SP1,2026-08-24,Malaga,La Coruna,1,1,1,1,2,1,1,0.5,1.5
 2627,SP1,2026-08-30,Malaga,Real Madrid,0,0,4,0,3,1,1,0.3333333333333333,2.3333333333333335
@@ -3221,6 +3251,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-13,Malaga,Celta,0,1,1,1,5,3,3,0.4,1.6
 2627,SP1,2026-09-17,Malaga,Villarreal,1,1,3,0,6,3,3,0.6,1.8
 2627,SP1,2026-09-20,Malaga,Getafe,0,0,1,0,7,3,2,0.4,1.8
+2627,SP1,2026-10-09,Malaga,Espanol,1,1,1,1,8,4,3,0.6,1.2
 2627,SP1,2026-08-24,Osasuna,Levante,1,0,0,1,1,1,1,0.0,0.0
 2627,SP1,2026-08-27,Osasuna,Celta,0,2,1,3,2,4,4,1.0,0.5
 2627,SP1,2026-08-31,Osasuna,Getafe,1,1,0,3,3,7,7,1.0,0.3333333333333333
@@ -3228,6 +3259,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-12,Osasuna,Espanol,1,0,2,0,5,7,7,1.0,1.6
 2627,SP1,2026-09-16,Osasuna,Ath Madrid,0,0,4,0,6,7,6,1.0,2.4
 2627,SP1,2026-09-19,Osasuna,Vallecano,1,1,1,1,7,8,4,0.8,2.4
+2627,SP1,2026-10-11,Osasuna,Betis,0,2,5,0,8,8,1,1.0,3.4
 2627,SP1,2026-08-22,Real Madrid,Espanol,0,2,1,3,1,3,3,2.0,1.0
 2627,SP1,2026-08-26,Real Madrid,Sociedad,1,4,1,3,2,6,6,3.0,1.0
 2627,SP1,2026-08-30,Real Madrid,Malaga,1,4,0,3,3,9,9,3.3333333333333335,0.6666666666666666
@@ -3235,6 +3267,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-12,Real Madrid,Vallecano,1,4,1,3,5,12,12,2.8,0.8
 2627,SP1,2026-09-15,Real Madrid,Elche,0,3,2,3,6,15,12,3.0,1.0
 2627,SP1,2026-09-20,Real Madrid,Ath Madrid,0,1,2,0,7,15,9,2.4,1.2
+2627,SP1,2026-10-10,Real Madrid,Villarreal,1,1,0,3,8,18,9,1.8,1.2
 2627,SP1,2026-08-16,Santander,Villarreal,1,2,2,1,1,1,1,2.0,2.0
 2627,SP1,2026-08-23,Santander,Getafe,0,0,1,0,2,1,1,1.0,1.5
 2627,SP1,2026-08-28,Santander,Elche,1,3,2,3,3,4,4,1.6666666666666667,1.6666666666666667
@@ -3242,6 +3275,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-12,Santander,Alaves,1,2,1,3,5,7,7,1.8,1.8
 2627,SP1,2026-09-16,Santander,Barcelona,0,2,7,0,6,7,6,1.8,2.8
 2627,SP1,2026-09-19,Santander,Celta,0,0,5,0,7,7,6,1.8,3.6
+2627,SP1,2026-10-11,Santander,Valencia,1,2,2,1,8,8,4,1.6,3.6
 2627,SP1,2026-08-15,Sevilla,Vallecano,1,2,1,3,1,3,3,2.0,1.0
 2627,SP1,2026-08-22,Sevilla,Ath Bilbao,0,3,1,3,2,6,6,2.5,1.0
 2627,SP1,2026-08-29,Sevilla,Ath Madrid,1,1,3,0,3,6,6,2.0,1.6666666666666667
@@ -3249,6 +3283,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-11,Sevilla,Valencia,1,1,0,3,5,10,10,1.6,1.2
 2627,SP1,2026-09-16,Sevilla,La Coruna,0,1,0,3,6,13,10,1.4,1.0
 2627,SP1,2026-09-19,Sevilla,Barcelona,1,1,3,0,7,13,7,1.0,1.4
+2627,SP1,2026-10-12,Sevilla,Levante,0,3,3,1,8,14,8,1.4,1.4
 2627,SP1,2026-08-21,Sociedad,Betis,0,0,1,0,1,0,0,0.0,1.0
 2627,SP1,2026-08-26,Sociedad,Real Madrid,0,1,4,0,2,0,0,0.5,2.5
 2627,SP1,2026-08-29,Sociedad,Espanol,1,2,1,3,3,3,3,1.0,2.0
@@ -3256,6 +3291,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-07,Sociedad,Elche,0,3,2,3,5,7,7,1.2,1.6
 2627,SP1,2026-09-13,Sociedad,Ath Madrid,1,0,3,0,6,7,7,1.2,2.0
 2627,SP1,2026-09-20,Sociedad,Valencia,0,3,2,3,7,10,10,1.6,1.6
+2627,SP1,2026-10-11,Sociedad,La Coruna,1,3,2,3,8,13,10,1.8,1.8
 2627,SP1,2026-08-22,Valencia,Celta,1,0,0,1,1,1,1,0.0,0.0
 2627,SP1,2026-08-25,Valencia,Betis,1,0,1,0,2,1,1,0.0,0.5
 2627,SP1,2026-08-30,Valencia,La Coruna,0,1,3,0,3,1,1,0.3333333333333333,1.3333333333333333
@@ -3263,6 +3299,7 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-11,Valencia,Sevilla,0,0,1,0,5,1,1,0.2,2.0
 2627,SP1,2026-09-15,Valencia,Alaves,0,1,0,3,6,4,3,0.4,2.0
 2627,SP1,2026-09-20,Valencia,Sociedad,1,2,3,0,7,4,3,0.8,2.4
+2627,SP1,2026-10-11,Valencia,Santander,0,2,2,1,8,5,4,1.0,2.2
 2627,SP1,2026-08-15,Vallecano,Sevilla,0,1,2,0,1,0,0,1.0,2.0
 2627,SP1,2026-08-20,Vallecano,Alaves,1,1,1,1,2,1,1,1.0,1.5
 2627,SP1,2026-08-31,Vallecano,Barcelona,0,2,5,0,3,1,1,1.3333333333333333,2.6666666666666665
@@ -3277,3 +3314,4 @@ season_code,division,match_date,team,opponent,is_home,goals_for,goals_against,po
 2627,SP1,2026-09-14,Villarreal,Betis,1,1,2,0,5,2,2,1.4,2.0
 2627,SP1,2026-09-17,Villarreal,Malaga,0,3,1,3,6,5,4,1.6,1.8
 2627,SP1,2026-09-20,Villarreal,Levante,1,3,1,3,7,8,6,1.8,1.6
+2627,SP1,2026-10-10,Villarreal,Real Madrid,0,0,1,0,8,8,6,1.8,1.6
